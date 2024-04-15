@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/Ephraim bassey88aa88253/">
+    <a href="https://www.linkedin.com/in/ephraim-bassey-58a11a27a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/Emoji90000">
