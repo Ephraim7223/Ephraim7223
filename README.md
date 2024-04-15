@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <!-- Updated Image Logo -->
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://i.imgur.com/AK9zB6X.png" width="100" alt="Coding From Home Logo"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/ephraim-bassey-58a11a27a/">
@@ -55,4 +55,4 @@ I am a Backend Engineer and Flutter Developer <img src="https://media.giphy.com/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim7223&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ephraim7223&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ephraim7223&show_icons=true&theme=tokyonight
