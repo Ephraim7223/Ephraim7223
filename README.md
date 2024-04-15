@@ -5,6 +5,9 @@
   </h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
+  <!-- Updated Image Logo -->
+  <img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" width="100" alt="Flutter Logo"/>
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/ephraim-bassey-58a11a27a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
