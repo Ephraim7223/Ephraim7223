@@ -6,15 +6,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/desmond-fon-88aa88253/">
+    <a href="https://www.linkedin.com/in/Ephraim bassey88aa88253/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/DezmondFon">
+    <a href="https://twitter.com/Ephraim bassey">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=Desmond-FOn&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Ephraim7223&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
@@ -47,7 +47,7 @@ I am a Backend Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Desmond-Fon&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ephraim7223&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim7223&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
