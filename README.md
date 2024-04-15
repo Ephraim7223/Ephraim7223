@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <!-- Updated Image Logo -->
-  <img src="https://i.imgur.com/AK9zB6X.png" width="100" alt="Coding From Home Logo"/>
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/ephraim-bassey-58a11a27a/">
