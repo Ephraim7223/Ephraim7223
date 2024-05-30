@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" style="font-family: 'Cascadia Code', monospace;">
   <h1>
     Hey there!!, I'm Ephraim
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -31,7 +31,7 @@ I am a Backend Engineer and Flutter Developer <img src="https://media.giphy.com/
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div style="font-family: 'Cascadia Code', monospace;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
