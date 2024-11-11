@@ -76,3 +76,114 @@
     </div>
   </div>
 </section>
+@import url('https://fonts.googleapis.com/css2?family=Cascadia+Code&display=swap');
+
+body {
+  font-family: 'Cascadia Code', monospace;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.header-container {
+  background-color: #0077b6;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+.header-title {
+  font-size: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-image {
+  width: 40px;
+  margin-left: 1rem;
+}
+
+.profile-image {
+  width: 100px;
+  border-radius: 50%;
+  margin-top: 1rem;
+}
+
+.badge-container {
+  margin-top: 1rem;
+}
+
+.badge {
+  margin: 0 0.5rem;
+}
+
+.view-counter {
+  margin-top: 1rem;
+}
+
+.about-section, .skills-section, .stats-section {
+  padding: 2rem;
+}
+
+.section-title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about-text {
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+}
+
+.inline-image {
+  width: 30px;
+  margin-left: 1rem;
+}
+
+.about-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.about-item {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.item-icon {
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}
+
+.contact-link {
+  text-decoration: none;
+  color: #0077b6;
+}
+
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.skill-icon {
+  width: 60px;
+  height: 60px;
+  margin: 1rem;
+}
+
+.stats-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.stats-item {
+  margin: 1rem;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
