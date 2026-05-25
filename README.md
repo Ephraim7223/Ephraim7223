@@ -1,11 +1,8 @@
 <div align="center">
-
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=header&text=Ephriam%20Bassey&fontSize=40&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20TypeScript%20%7C%20Node.js%20%7C%20Mobile&descAlignY=58&descSize=16&descColor=8b949e"/>
-
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+scalable+backends+%F0%9F%9A%80;TypeScript+%2B+NestJS+enthusiast;Mobile+dev+with+React+Native;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -56,9 +53,8 @@ const ephraim = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ephraim7223&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim7223&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b949e"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ephraim7223&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
+  <img src="https://streak-stats.demolab.com?user=Ephraim7223&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
 </div>
 
 ---
