@@ -49,12 +49,12 @@ const ephraim = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ephraim7223&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim7223&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b949e"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ephraim7223&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim7223&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b949e&cache_seconds=1800&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ephraim7223&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88"/>
+  <img src="https://streak-stats.demolab.com?user=Ephraim7223&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&date_format=j%20M%5B%20Y%5D&mode=daily"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ const ephraim = {
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ephraim7223&theme=github-compact&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ephraim7223&theme=github-compact&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&hide_border=true&area=true"/>
 </p>
 
 ---
